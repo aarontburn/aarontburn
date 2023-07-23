@@ -12,6 +12,6 @@ Artist Page: https://beanloaf.xyz/
 ## Thoughts
 #### A lightweight, clean, and simple note app that can sync to the cloud, which allows easy access on both desktop and mobile devices.
 
-Desktop (Windows Only): https://github.com/beanloaf/ThoughtsDesktop
+Desktop: https://github.com/beanloaf/ThoughtsDesktop
 
 Mobile (Android Only): https://github.com/beanloaf/ThoughtsAndroid
