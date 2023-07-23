@@ -9,7 +9,7 @@ Artist Page: https://beanloaf.xyz/
 
 
 # Software
-## Thoughts
+## Thoughts (In development)
 #### A lightweight, clean, and simple note app that can sync to the cloud, which allows easy access on both desktop and mobile devices.
 
 Desktop: https://github.com/beanloaf/ThoughtsDesktop
