@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi
+I make lofi and software.
 
-<!--
-**beanloaf/beanloaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Music
+Artist Page: https://beanloaf.xyz/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> (Source code: https://github.com/beanloaf/beanloaf.github.io)
+
+
+# Software
+## Thoughts
+> A lightweight, clean, and simple note app that can sync to the cloud, which allows easy access on both desktop and mobile devices.
+>
+> Desktop (Windows Only): https://github.com/beanloaf/ThoughtsDesktop
+> 
+> Mobile (Android Only): https://github.com/beanloaf/ThoughtsAndroid
