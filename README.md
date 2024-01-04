@@ -1,5 +1,5 @@
 # Software
-## Thoughts (In development)
+## Thoughts _(In development)_ (Full re-write in progress)
 ### A lightweight, clean, and simple notepad application with cloud-syncing capabilities.
 
 Desktop: https://github.com/beanloaf/ThoughtsDesktop
