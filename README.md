@@ -22,6 +22,16 @@ Think of **Nexus** as a customizable toolbox — one app that can do anything th
 
 ![Nexus Sample](assets/image.png)
 
+<sub>
+<p align="center">
+    Nexus open with several modules installed: Discord Monkey, Spotify Monkey, and Debug Console.
+</p>
+</sub>
+
+
+
+
+
 ## Nexus Modules
 
 | Name | Description |
