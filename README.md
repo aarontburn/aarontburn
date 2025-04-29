@@ -26,6 +26,7 @@ Think of **Nexus** as a customizable toolbox — one app that can do anything th
 
 | Name | Description |
 |--------|-------------|
+| [Monkey Core](https://github.com/aarontburn/nexus-monkey-core) | A library for managing third-party windows in Nexus. |
 | [Discord Monkey](https://github.com/aarontburn/nexus-discord-monkey) | Embed your Discord client within Nexus. |
 | [Github Desktop Monkey](https://github.com/aarontburn/nexus-github-desktop-monkey) | Embed your GitHub Desktop client within Nexus. |
 | [Spotify Monkey](https://github.com/aarontburn/nexus-spotify-monkey) | Control and view your Spotify desktop client from within Nexus. |
